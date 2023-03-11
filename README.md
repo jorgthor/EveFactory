@@ -31,3 +31,5 @@ https://www.fuzzwork.co.uk/dump/
 https://developers.eveonline.com/
 
 https://github.com/devfleet/awesome-eve
+
+https://www.reddit.com/r/evetech/
