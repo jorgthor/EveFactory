@@ -22,3 +22,9 @@
 -view dashboard over markedsstatus kontra ønsket mengde på marked av ting spiller / guild har resept for
 
 -view for ordrebok
+
+
+https://esi.evetech.net/ui/#/
+https://www.fuzzwork.co.uk/dump/
+https://developers.eveonline.com/
+https://github.com/devfleet/awesome-eve
